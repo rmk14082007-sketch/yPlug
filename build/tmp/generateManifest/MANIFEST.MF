@@ -1,0 +1,12 @@
+Created-By: Gradle 8.14.3
+Version: 1.0-SNAPSHOT
+Build-JVM: 21.0.8 (JetBrains s.r.o. 21.0.8+9-b1163.62)
+Build-OS: Mac OS X 15.3.1 aarch64
+Build-Plugin: IntelliJ Platform Gradle Plugin
+Build-Plugin-Version: 2.7.1
+Platform-Type: IC
+Platform-Version: 2025.1.4.1
+Platform-Build: 251.27812.49
+Kotlin-Available: true
+Kotlin-Stdlib-Bundled: false
+Kotlin-Version: 2.1.0
